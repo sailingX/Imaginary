@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name             = "Imaginary"
   s.summary          = "Remote images, as easy as one, two, three."
   s.version          = "5.0.0"
-  s.homepage         = "https://github.com/hyperoslo/Imaginary"
+  s.homepage         = "https://github.com/sailingX/Imaginary"
   s.license          = 'MIT'
   s.author           = { "Hyper Interaktiv AS" => "ios@hyper.no" }
-  s.source           = { :git => "https://github.com/hyperoslo/Imaginary.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/sailingX/Imaginary.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/hyperoslo'
 
   s.ios.deployment_target = '11.0'
